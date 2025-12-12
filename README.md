@@ -1,2 +1,2 @@
-# stage_m1
-Stage de M1 (3 mois)  en physique théorique, encadré par Denis Ullmo au LPTMS.
+# Stage de M1 (3 mois)
+En physique théorique, encadré par Denis Ullmo au LPTMS.
