@@ -2,6 +2,8 @@
 
 Ce répertoire expose les principaux résultats de mon stage de M1 (Physique théorique) effectué au LPTMS. Ce stage de recherche de 3 mois a été encadré par [Denis Ullmo](https://www.lptms.universite-paris-saclay.fr/membres/ullmo/).
 
+**[📄 Lire le rapport complet (PDF)](./Rapport_de_Stage_M1.pdf)**
+
 ## Résumé
 
 Ce rapport étudie l’équilibre entre production renouvelable intermittente et consommation d’énergie dans les réseaux électriques. Nous utilisons une approche de théorie des jeux à champ moyen (Mean Field Games - MFG) pour décrire le comportement des consommateurs et voir comment il influe sur le réseau.
@@ -14,11 +16,12 @@ Une première partie présente l’état de l’art des modèles de réseaux et 
 
 * **src/Python/** : Contient les scripts générant les figures 7, 8, 9, 10 et 11 (Analyse et visualisation).
 * **src/Julia/** : Contient les scripts générant les figures 2, 3 et 4 (Diagrammes de bifurcation et simulations temporelles haute performance).
-* **Rapport_de_Stage_M1.pdf** : Le document final du rapport.
+* **figures/** : Dossier de sortie où sont sauvegardés les graphiques générés.
+* **[Rapport_de_Stage_M1.pdf](./Rapport_de_Stage_M1.pdf)** : Le document final du rapport.
 
 ## Installation et Utilisation
 
-Lors de ce stage, j'ai d'abord codé en Julia avant de passer en Python pour être plus à l'aise. J'ai donc séparé mes codes finaux en 2 parties :
+Ce projet combine Python pour l'analyse de données et Julia pour les simulations numériques lourdes.
 
 ### Partie Python
 
