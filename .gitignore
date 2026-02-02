@@ -1,0 +1,14 @@
+.vscode/
+
+#python
+__pycache__/
+*.pyc
+venv/
+.env
+
+#julia
+*.cov
+*.mem
+
+# pour ignorer les fichiers système macOS
+.DS_Store

@@ -1,0 +1,9 @@
+# Noyau scientifique (Version stable pour Numba)
+numpy>=2.3.0,<2.4.0
+scipy
+matplotlib
+tqdm
+numba
+cvxpy
+
+
