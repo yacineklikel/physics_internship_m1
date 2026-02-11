@@ -2,7 +2,7 @@
 
 Ce répertoire expose les principaux résultats de mon stage de M1 (Physique théorique) effectué au LPTMS. Ce stage de recherche de 3 mois a été encadré par [Denis Ullmo](https://www.lptms.universite-paris-saclay.fr/membres/ullmo/).
 
-**[📄 Lire le rapport complet (PDF)](./Rapport_de_Stage_M1.pdf)**
+**[Lire le rapport complet (PDF)](./Rapport_de_Stage_M1.pdf)**
 
 ## Résumé
 
