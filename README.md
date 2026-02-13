@@ -14,10 +14,10 @@ Une première partie présente l’état de l’art des modèles de réseaux et 
 
 ## Structure du projet
 
+* **[Rapport_de_Stage_M1.pdf](./Rapport_de_Stage_M1.pdf)** : Le document final du rapport.
 * **src/Python/** : Contient les scripts générant les figures 7, 8, 9, 10 et 11 (Analyse et visualisation).
 * **src/Julia/** : Contient les scripts générant les figures 2, 3 et 4 (Diagrammes de bifurcation et simulations temporelles haute performance).
 * **figures/** : Dossier de sortie où sont sauvegardés les graphiques générés.
-* **[Rapport_de_Stage_M1.pdf](./Rapport_de_Stage_M1.pdf)** : Le document final du rapport.
 
 ## Installation et Utilisation
 
