@@ -6,7 +6,7 @@ Ce répertoire expose les principaux résultats de mon stage de M1 (Physique th�
 
 ## Résumé
 
-Ce rapport étudie l’équilibre entre production renouvelable intermittente et consommation d’énergie dans les réseaux électriques. Nous utilisons une approche de théorie des jeux à champ moyen (Mean Field Games - MFG) pour décrire le comportement des consommateurs et voir comment il influe sur le réseau.
+Étude de l'équilibre entre production renouvelable intermittente et consommation d’énergie dans les réseaux électriques. Nous utilisons une approche de théorie des jeux à champ moyen (Mean Field Games - MFG) pour décrire le comportement des consommateurs et voir comment il influe sur le réseau.
 
 Une première partie présente l’état de l’art des modèles de réseaux et du cadre théorique des MFG. Après un aperçu de la physique des réseaux électriques, nous considérons un premier modèle qui donne une bonne intuition des résultats attendus dans les cas les plus complexes. La dernière partie explique comment implémenter un modèle plus raffiné et illustre le début de cette implémentation numérique.
 
